@@ -313,7 +313,7 @@ function App() {
               language={language}
               options={{
                 automaticLayout: true,
-                fontSize: 18,
+                fontSize: 16,
                 fontFamily: "JetBrains Mono",
               }}
               onMount={(editor) => setEditor(editor)}
